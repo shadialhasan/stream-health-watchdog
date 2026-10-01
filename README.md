@@ -3,10 +3,10 @@
 > **Topics:** `stream-monitoring` `ffprobe` `iptv` `hls-monitor` `telegram-alert` `broadcasting` `devops`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/stream-health-watchdog/releases/tag/v1.0.0)
-[![CI/CD Pipeline](https://github.com/MobileConduit/stream-health-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/stream-health-watchdog/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/stream-health-watchdog/releases/tag/v1.0.0)
+[![CI/CD Pipeline](https://github.com/shadialhasan/stream-health-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/stream-health-watchdog/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Stream: HLS/RTMP/RTSP](https://img.shields.io/badge/Broadcast-IPTV%20%7C%20OTT-red.svg)](https://github.com/MobileConduit)
+[![Stream: HLS/RTMP/RTSP](https://img.shields.io/badge/Broadcast-IPTV%20%7C%20OTT-red.svg)](https://github.com/shadialhasan)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://python.org)
 
 A production-proven watchdog daemon designed for 24/7 broadcast operations (Satellite downlinks, IPTV channels, and OTT live streaming). Actively probes streams for bitrate stalls, dropped video packets, and automatically triggers recovery workflows or Telegram emergency alerts.
@@ -95,7 +95,7 @@ Configuration variables:
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/stream-health-watchdog.git
+git clone https://github.com/shadialhasan/stream-health-watchdog.git
 cd stream-health-watchdog
 pip install -r requirements.txt
 ```
@@ -133,7 +133,7 @@ GitHub Actions pipeline (`.github/workflows/ci.yml`) runs on push and pull reque
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
