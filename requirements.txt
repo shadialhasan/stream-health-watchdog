@@ -1,1 +1,2 @@
 # Requires FFmpeg and ffprobe in PATH
+pytest>=8.0.0
