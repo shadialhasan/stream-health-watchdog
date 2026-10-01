@@ -1,5 +1,8 @@
 # 📡 stream-health-watchdog
 
+> **Topics:** `stream-monitoring` `ffprobe` `iptv` `hls-monitor` `telegram-alert` `broadcasting` `devops`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/stream-health-watchdog/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/stream-health-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/stream-health-watchdog/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

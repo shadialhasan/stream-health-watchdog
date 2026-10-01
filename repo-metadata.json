@@ -1,0 +1,12 @@
+{
+  "description": "24/7 broadcast stream watchdog probing HLS/RTMP/RTSP streams for stalls and dispatching Telegram alerts",
+  "topics": [
+    "stream-monitoring",
+    "ffprobe",
+    "iptv",
+    "hls-monitor",
+    "telegram-alert",
+    "broadcasting",
+    "devops"
+  ]
+}
