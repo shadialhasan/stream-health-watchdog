@@ -1,5 +1,6 @@
 # 📡 stream-health-watchdog
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/stream-health-watchdog/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/stream-health-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/stream-health-watchdog/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Stream: HLS/RTMP/RTSP](https://img.shields.io/badge/Broadcast-IPTV%20%7C%20OTT-red.svg)](https://github.com/MobileConduit)
@@ -85,6 +86,16 @@ Configuration variables:
 | `TELEGRAM_WEBHOOK` | Generic HTTP Webhook endpoint | Optional |
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/stream-health-watchdog.git
+cd stream-health-watchdog
+pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 
